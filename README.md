@@ -8,7 +8,7 @@ Editora Virtual
   
 ## Índice
 - [Alunos](#alunos)
-- [Descrição do projeto]
+- [Descrição do projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Requisitos Funcionais](#requisitos-funcionais)
