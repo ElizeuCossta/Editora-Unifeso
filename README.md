@@ -40,6 +40,8 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
  - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
  - Consultar o calendário ou agenda para ver os compromissos agendados.
 
+   <h3> ✨ Desenvolvido com as seguintes tecnologias:</h3>
+
 ## Instruções para executar ou abrir o MVP
 
  **1**. Abra um navegador atualizado na sua máquina
