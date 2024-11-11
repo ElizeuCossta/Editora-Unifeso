@@ -37,7 +37,8 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 
 ## Benefícios do Produto
 
- - O produto é desenvolvido para resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
+ - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
+ - Consultar o calendário ou agenda para ver os compromissos agendados.
 
 ## Informações Adicionais
 
@@ -46,8 +47,8 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 
 ## Notificações e Lembretes
 
-- Os usuários podem receber um lembrete via e-mail ou SMS. Antes de cada compromisso agendado
-- Caso haja uma alteração ou cancelamento de um compromisso, tnato o usuário quanto o prestador de serviço recebem uma notificação. 
+- Os usuários podem receber um lembrete via e-mail ou SMS antes de cada compromisso agendado
+- Caso haja uma alteração ou cancelamento de um compromisso, o usuário recebe uma notificação. 
 
  ## Informações MVP DEFINIDO
  
