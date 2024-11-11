@@ -1,5 +1,5 @@
 # Agenda Fácil NAF
-Editora Virtual
+
 ## Descrição do projeto
 
 ## Membros da Equipe
