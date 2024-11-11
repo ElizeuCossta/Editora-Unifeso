@@ -2,7 +2,7 @@
 Editora Virtual
 ## Descrição do projeto
 
-- [Membros da Equipe](#membros-da-equipe)
+- Membros da Equipe
 - Elizeu Costa
  
 ### Objetivo
