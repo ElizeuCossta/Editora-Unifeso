@@ -20,7 +20,7 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 ## Dores do Público Alvo
 
 1. **Falta de organização de tempo:** 
-   - Dificuldade em gerenciar compromissos acadêmicos, pessoais ou profissionais de maneira eficiente.
+   -Dificuldade em gerenciar compromissos acadêmicos, pessoais ou profissionais de maneira eficiente.
      
 2. **Conflitos de horário:** 
    - Agendamento de compromissos sobrepostos, causando imprevistos e perda de produtividade.
