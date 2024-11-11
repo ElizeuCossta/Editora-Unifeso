@@ -52,8 +52,6 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
   - cd agenda_facil
       
 **4**. Abra o arquivo index.html no seu navegador para visualizar o aplicativo.
-  - 
-
 
 ## Informações Adicionais
 
@@ -66,10 +64,4 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 - Os usuários podem receber um lembrete via e-mail ou SMS antes de cada compromisso agendado
 - Caso haja uma alteração ou cancelamento de um compromisso, o usuário recebe uma notificação.
 
- ## Informações MVP DEFINIDO
- 
-- Ter um objetivo claro
-- Validar uma hipótese ou ideia de produto
-- Obter feedback dos usuários
-- Entendendo a viabilidade
   
