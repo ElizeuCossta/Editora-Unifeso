@@ -40,12 +40,10 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
  - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
  - Consultar o calendário ou agenda para ver os compromissos agendados.
 
-   <h3> Desenvolvido com as seguintes tecnologias:</h3>
+## Desenvolvido com as seguintes tecnologias
    
 - **HTML**: Estruturação do conteúdo do site.
 - **CSS**: Estilização da interface do usuário.
-- **Bootstrap**: Framework CSS utilizado para agilizar o design responsivo.
-- **JavaScript** *(possivelmente)*: Implementação de interatividade nas páginas.
 
 ## Instruções para executar ou abrir o MVP
 
