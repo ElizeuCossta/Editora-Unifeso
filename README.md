@@ -5,7 +5,7 @@
 O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, atualizar o cadastro e confirmar consultas pré-agendadas. O Agenda Fácil também permite visualizar o histórico de consultas.
   
 ## Membros da Equipe
-- *Elizeu Costa*
+- **Elizeu Costa**
  
 ## Funcionalidades
 
