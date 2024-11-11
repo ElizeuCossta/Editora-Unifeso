@@ -2,7 +2,7 @@
 Editora Virtual
 ## Descrição do projeto
 
- - .[Nomes do Integrantes](Nomes dos Integrantes).
+-.[Nomes do Integrantes][#Nomes dos Integrantes].
  
 ### Objetivo
 - Criar um facilitador para que pessoas e empresas consigam suporte para a declaração do imposto de renda. Trazemos um sistema de fácil uso e alta eficiência, conduzindo um bom atendimentos ao NAF (Núcleo de apoio contábil e fiscal).
@@ -16,7 +16,20 @@ Editora Virtual
 - [Alunos](#alunos)
 - [Descrição do projeto](#descrição-do-projeto)
 - [Funcionalidades](#funcionalidades)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- Criar arquivo Readme com as informações abaixo:
+* Nome completo dos integrantes da equipe
+* Nome da situação problema escolhido
+* Descrição resumida das tecnologias utilizadas
+* Instruções para executar/abrir o MVP
+* Informações adicionais que forem necessárias
+* Informação de qual MVP definido
+* Informação de objetivos e benefícios do produto
+* Público alvo da solução
+* Dores do público alvo
+* Criar um arquivo Excel com a lista de requisitos. O Excel deve ter as seguintes colunas
+* Tipo do requisito: Funcional ou não funcional
+* Descrição do requisito
+* Prioridade do requisito
 - [Requisitos Funcionais](#requisitos-funcionais)
 - [Requisitos Não Funcionais](#requisitos-não-funcionais)
 - [Como Instalar e Executar o Projeto](#como-instalar-e-executar-o-projeto)
