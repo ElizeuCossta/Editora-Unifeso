@@ -43,12 +43,13 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 ## Informações Adicionais
 
 - Se você for o administrador da agenda fácil, você poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os seus.
+-  Casa haja qualquer problema ou dúvida no cadastro da Agenda Fácil, entre em contato com suporte técnico
 - Alterar ou Cancelar: Se for permitido, você pode alterar ou cancelar um compromisso diretamente da interface.
 
 ## Notificações e Lembretes
 
 - Os usuários podem receber um lembrete via e-mail ou SMS antes de cada compromisso agendado
-- Caso haja uma alteração ou cancelamento de um compromisso, o usuário recebe uma notificação. 
+- Caso haja uma alteração ou cancelamento de um compromisso, o usuário recebe uma notificação.
 
  ## Informações MVP DEFINIDO
  
