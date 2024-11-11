@@ -41,8 +41,8 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 
 ## Informações Adicionais
 
-- Visualização da Agenda
-Consultar compromissos: Acesse a visão de agenda ou calendário para ver os compromissos agendados. Se você for o administrador da agenda (por exemplo, o dono de um negócio), você poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os seus.
+- Visualização da Agenda:
+ Se você for o administrador da agenda fácil, você poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os seus.
 
 - Alterar ou Cancelar: Se for permitido, você pode alterar ou cancelar um compromisso diretamente da interface.
 
