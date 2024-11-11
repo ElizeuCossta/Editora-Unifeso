@@ -52,6 +52,7 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
   - cd agenda_facil
       
 **4**. Abra o arquivo index.html no seu navegador para visualizar o aplicativo.
+  - 
 
 
 ## Informações Adicionais
