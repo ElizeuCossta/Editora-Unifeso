@@ -49,4 +49,10 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 ## Benefícios do Produto
 
  **Solução para Problemas Específicos:** O produto é desenvolvido para resolver uma dor ou desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
+
+ ## Informações MVP DEFINIDO
+-Ter um objetivo claro
+-Validar uma hipótese ou ideia de produto
+-Obter feedback dos usuários
+-Entendendo a viabilidade
   
