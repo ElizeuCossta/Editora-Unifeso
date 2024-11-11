@@ -20,20 +20,20 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 ## Dores do Público Alvo
 
 1. **Falta de organização de tempo:** 
-   - Dificuldade em gerenciar compromissos acadêmicos, pessoais ou profissionais de maneira eficiente.
+ - Dificuldade em gerenciar compromissos acadêmicos, pessoais ou profissionais de maneira eficiente.
      
 2. **Conflitos de horário:** 
-   - Agendamento de compromissos sobrepostos, causando imprevistos e perda de produtividade.
+ - Agendamento de compromissos sobrepostos, causando imprevistos e perda de produtividade.
      
 3. **Dificuldade em integrar compromissos de diferentes áreas:**
-    - Estudantes e profissionais têm dificuldade em sincronizar compromissos pessoais e profissionais.
+ - Estudantes e profissionais têm dificuldade em sincronizar compromissos pessoais e profissionais.
       
 4. **Ferramentas complexas:** 
-    - Sistemas de agendamento existentes são muitas vezes difíceis de usar, ou que desmotivam os usuários.
+ - Sistemas de agendamento existentes são muitas vezes difíceis de usar, ou que desmotivam os usuários.
       
 5. **Desorganização de Agenda e Compromissos:**
-   - Muitos estudantes, professores e profissionais de empresas de diferentes portes enfrentam dificuldades para organizar seus compromissos, resultando em confusão sobre horários de aulas, reuniões e prazos importantes.
-   - A falta de uma solução centralizada e intuitiva pode levar ao esquecimento de compromissos ou sobrecarga de tarefas, prejudicando a produtividade e causando estresse.
+ - Muitos estudantes, professores e profissionais de empresas de diferentes portes enfrentam dificuldades para organizar seus compromissos, resultando em confusão sobre horários de aulas, reuniões e prazos importantes.
+ - A falta de uma solução centralizada e intuitiva pode levar ao esquecimento de compromissos ou sobrecarga de tarefas, prejudicando a produtividade e causando estresse.
 
 ## Benefícios do Produto
 
