@@ -6,6 +6,8 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
   
 ## Membros da Equipe
 - **Elizeu Costa**
+- **Lucas Trindade**
+- **Cláudia Trindade**
  
 ## Funcionalidades
 
