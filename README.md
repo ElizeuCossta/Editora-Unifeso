@@ -2,7 +2,10 @@
 
 ## Descrição do projeto:
 
-O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, atualizar o cadastro e confirmar consultas pré-agendadas. O Agenda Fácil também permite visualizar o histórico de consultas.
+- O Agenda Fácil é um sistema que permite agendar consultas, visualizar o histórico, além de cancelar consulta pré-agendadas.
+- Facilitar o agendamento tornando-o mais intuitivo e fácil, permitindo que os usuários encontrem horários disponíveis e confirmando seus atendimentos com rapidez e simplicidade.
+- Aumentar a eficácia otimizando a gestão dos horários e recursos do NAF, diminuindo o tempo de espera dos usuários.
+- Posicionar o NAF como uma instituição inovadora e eficiente, utilizando tecnologia para melhorar a qualidade dos serviços.
   
 ## Membros da Equipe
 - **Elizeu da Costa Oliveira**
@@ -12,7 +15,7 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 ## Funcionalidades
 
   - Criar um software facilitador para que pessoas e empresas consigam suporte para a declaração do imposto de renda. Trazemos um sistema de fácil uso e alta eficiência para o usuário, conduzindo um bom atendimentos da equipe do NAF (Núcleo de apoio Contábil e Fiscal).
-
+ 
 ## Público Alvo da Solução
 
 - No que se refere ao público alvo, buscamos auxiliar a população local, englobando os cidadãos da região e empresas. Queremos simplificar para aqueles com pouco conhecimento ou com dúvidas sobre o processo de declaração do imposto de renda, ou que não acharam profissionais confiáveis ou disponíveis para o serviço, por isso criamos o NAF (Núcleo de apoio Contábil e Fiscal) para auxiliar ao público.
