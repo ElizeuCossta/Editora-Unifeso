@@ -2,7 +2,7 @@
 Editora Virtual
 ## Descrição do projeto
 
--.[Nomes do Integrantes](#nomes do Integrantes).
+-.[Nomes do Integrantes](#nomes-do-Integrantes).
  
 ### Objetivo
 - Criar um facilitador para que pessoas e empresas consigam suporte para a declaração do imposto de renda. Trazemos um sistema de fácil uso e alta eficiência, conduzindo um bom atendimentos ao NAF (Núcleo de apoio contábil e fiscal).
