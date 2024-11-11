@@ -42,7 +42,7 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
 
 ## Instruções para executar ou abrir o MVP
 
-    - Abra um navegador(ex: google chorme, edge, firefox) atualizado na sua máquina.
+    -  Abra um navegador(ex: google chorme, edge, firefox) atualizado na sua máquina.
  --1. em sua máquina local, siga os passos abaixo:
 
 Pré-requisitos :
