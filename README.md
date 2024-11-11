@@ -40,19 +40,12 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
  - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
  - Consultar o calendário ou agenda para ver os compromissos agendados.
 
-   <h3> ✨ Desenvolvido com as seguintes tecnologias:</h3>
-
-- <a href="https://www.prisma.io/">Prisma</a>
-- <a href="https://day.js.org/">Next.js</a>
-- <a href="https://stitches.dev/">Stitches</a>
-- <a href="https://react-hook-form.com/">React Hook Form</a>
-- <a href="https://zod.dev/">Zod</a>
-- <a href="https://next-auth.js.org/">Next Auth</a>
-- <a href="https://day.js.org/">Day.j</a>
-- <a href="https://github.com/axios/axios">Axios</a>
-- <a href="https://www.typescriptlang.org/">Typescript</a>
-- <a href="https://www.npmjs.com/package/@mujapira-ui/react">Design System</a>
-- <a href="https://www.npmjs.com/package/nookies">Nookies</a>
+   <h3> Desenvolvido com as seguintes tecnologias:</h3>
+   
+- **HTML**: Estruturação do conteúdo do site.
+- **CSS**: Estilização da interface do usuário.
+- **Bootstrap**: Framework CSS utilizado para agilizar o design responsivo.
+- **JavaScript** *(possivelmente)*: Implementação de interatividade nas páginas.
 
 ## Instruções para executar ou abrir o MVP
 
