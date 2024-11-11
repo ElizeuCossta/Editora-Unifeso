@@ -40,6 +40,22 @@ O Agenda Fácil é um sistema que permite agendar consultas, além de cancelar, 
  - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
  - Consultar o calendário ou agenda para ver os compromissos agendados.
 
+## Instruções para executar ou abrir o MVP
+
+ - Abra um navegador (ex: google chorme, edge, firefox) atualizado
+   ##1. Passo >
+ - Para executar este MVP em sua máquina local, siga os passos abaixo:
+
+Pré-requisitos :
+
+Um navegador de internet atualizado para visualizar o projeto.
+Passos para execução :
+
+Faça o download ou clone o repositório GitHub:
+git clone https://github.com/Pegoral123/PROJETO_AgendaFacil.git
+Navegue até o diretório do projeto:
+cd agenda_facil
+Abra o arquivo index.htmlno seu navegador para visualizar o aplicativo.
 ## Informações Adicionais
 
 - Se você for o administrador da agenda fácil, você poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os seus.
