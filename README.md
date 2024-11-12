@@ -53,7 +53,7 @@
  **1**. Abra um navegador atualizado na sua máquina
   - (ex: google chorme, edge, firefox) 
  
- **2**. Faça o download ou clone o repositório GitHub:
+ **2**. Faça o download ou clone do repositório GitHub:
   - https://github.com/ElizeuCossta/Editora-Unifeso/edit/main/README.md)
      
  **3**. Navegue até o diretório do projeto:
