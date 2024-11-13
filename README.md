@@ -14,7 +14,7 @@
  
 ## Funcionalidades
 
-  - Criar um software facilitador para que pessoas e empresas consigam suporte para a declaração do imposto de renda. Trazemos um sistema de fácil uso e alta eficiência para o usuário, conduzindo um bom atendimentos da equipe do NAF (Núcleo de apoio Contábil e Fiscal).
+- Criar um software facilitador para que pessoas e empresas consigam suporte para a declaração do imposto de renda. Trazemos um sistema de fácil uso e alta eficiência para o usuário, conduzindo um bom atendimentos da equipe do NAF (Núcleo de apoio Contábil e Fiscal).
  
 ## Público Alvo da Solução
 
