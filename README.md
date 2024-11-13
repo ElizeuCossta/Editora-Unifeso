@@ -63,7 +63,7 @@
 
 ## Informações Adicionais
 
-- Se você for o administrador da agenda fácil, você poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os seus.
+- Se você for o administrador da agenda fácil. Você poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os seus.
 -  Casa haja qualquer problema ou dúvida no cadastro da Agenda Fácil, entre em contato com suporte técnico
 - Alterar ou Cancelar: Se for permitido, você pode alterar ou cancelar um compromisso diretamente da interface.
 
