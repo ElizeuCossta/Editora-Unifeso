@@ -48,6 +48,7 @@
    
 - **HTML**: Estruturação do conteúdo do site.
 - **CSS**: Estilização da interface do usuário.
+- **JavaScript**:
 
 ## Instruções para Executar ou Abrir o MVP
 
