@@ -44,7 +44,7 @@
  - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
  - Consultar o calendário ou agenda para ver os compromissos agendados.
 
-## Desenvolvido com as Seguintes Tecnologias
+## 🔬 Desenvolvido com as Seguintes Tecnologias
    
 - **HTML**: Estruturação do conteúdo do site.
 - **CSS**: Estilização da interface do usuário.
