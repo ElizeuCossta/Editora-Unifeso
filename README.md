@@ -7,13 +7,13 @@
 - Aumentar a eficácia otimizando a gestão dos horários e recursos do NAF, diminuindo o tempo de espera dos usuários.
 - Posicionar o NAF como uma instituição inovadora e eficiente, utilizando tecnologia para melhorar a qualidade dos serviços.
   
-## 👨🏻‍💻 Membros da Equipe
+## Membros da Equipe
 
 - **Cláudia Trindade Marques**
 - **Elizeu da Costa Oliveira**
 - **Lucas Trindade Marques**
  
-## 💻 Principais Funcionalidades
+## Principais Funcionalidades
 
 - Criar um sofware facilitador para que as pessoas e empresas consigam suporte para a declaração do imposto de renda. Mostrando um sistema de fácil uso e alta eficiência para os usuários, conduzindo um bom atendimento da equipe do NAF (Núcleo de Apoio Contábil e Fiscal).
  
@@ -21,7 +21,7 @@
 
 - No que se refere ao público alvo, buscamos auxiliar a população local, englobando os cidadãos das regiãos e empresas. Queremos simplificar para aqueles com pouco conhecimento ou com dúvidas sobre o processo de declaração do imposto de renda, ou que não acharam profissionais confiáveis ou disponíveis para o serviço, por isso criamos o NAF (Núcleo de Apoio Contábil e Fiscal) para auxiliar ao público.
  
-## 🗒 Dores do Público Alvo
+## Dores do Público Alvo
 
 **1**. **Falta de Organização de Tempo:** 
  - Dificuldade em gerenciar compromissos acadêmicos, pessoais ou profissionais de maneira eficiente.
@@ -44,13 +44,13 @@
  - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
  - Consultar o calendário ou agenda para ver os compromissos agendados.
 
-## 🔬 Desenvolvido com as Seguintes Tecnologias
+## Desenvolvido com as Seguintes Tecnologias
    
 - **HTML**: Estruturação do conteúdo do site.
 - **CSS**: Estilização da interface do usuário.
 - **JavaScript**:
 
-## 📝 Instruções para Executar ou Abrir o MVP
+## Instruções para Executar ou Abrir o MVP
 
  **1**. Abra um navegador atualizado na sua máquina
   - (ex: google chorme, edge, firefox) 
@@ -59,8 +59,7 @@
   - https://github.com/ElizeuCossta/Projeto-Agenda/tree/main
      
  **3**. Navegue até o diretório do projeto:
-  - cd agenda_facil
-      
+        
 **4**. Abra o arquivo index.html no seu navegador para visualizar o aplicativo.
 
 ## ⚙️ Informações Adicionais
