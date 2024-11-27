@@ -63,7 +63,7 @@
       
 **4**. Abra o arquivo index.html no seu navegador para visualizar o aplicativo.
 
-## Informações Adicionais
+## ⚙️ Informações Adicionais
 - Se você for o administrador da Agenda Fácil, poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os agendamentos deles no sistema.
 - Casa haja qualquer problema ou dúvida no cadastro da Agenda Fácil, entre em contato com suporte técnico
 - Alterar ou Cancelar: Se for permitido, você pode alterar ou cancelar um compromisso diretamente da interface.
