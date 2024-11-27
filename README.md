@@ -50,7 +50,7 @@
 - **CSS**: Estilização da interface do usuário.
 - **JavaScript**:
 
-## Instruções para Executar ou Abrir o MVP
+## 📝 Instruções para Executar ou Abrir o MVP
 
  **1**. Abra um navegador atualizado na sua máquina
   - (ex: google chorme, edge, firefox) 
