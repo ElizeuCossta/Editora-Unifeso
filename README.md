@@ -7,7 +7,7 @@
 - Aumentar a eficácia otimizando a gestão dos horários e recursos do NAF, diminuindo o tempo de espera dos usuários.
 - Posicionar o NAF como uma instituição inovadora e eficiente, utilizando tecnologia para melhorar a qualidade dos serviços.
   
-## Membros da Equipe
+## 👨🏻‍💻 Membros da Equipe
 
 - **Cláudia Trindade Marques**
 - **Elizeu da Costa Oliveira**
