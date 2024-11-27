@@ -56,7 +56,7 @@
   - (ex: google chorme, edge, firefox) 
  
  **2**. Faça o download ou clone do repositório GitHub:
-  - https://github.com/ElizeuCossta/Projeto/edit/principal/README.md)
+  - https://github.com/ElizeuCossta/Projeto-Agenda/edit/main/README.md
      
  **3**. Navegue até o diretório do projeto:
   - cd agenda_facil
