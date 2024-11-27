@@ -21,7 +21,7 @@
 
 - No que se refere ao público alvo, buscamos auxiliar a população local, englobando os cidadãos das regiãos e empresas. Queremos simplificar para aqueles com pouco conhecimento ou com dúvidas sobre o processo de declaração do imposto de renda, ou que não acharam profissionais confiáveis ou disponíveis para o serviço, por isso criamos o NAF (Núcleo de Apoio Contábil e Fiscal) para auxiliar ao público.
  
-## Dores do Público Alvo
+## 🗒 Dores do Público Alvo
 
 **1**. **Falta de Organização de Tempo:** 
  - Dificuldade em gerenciar compromissos acadêmicos, pessoais ou profissionais de maneira eficiente.
