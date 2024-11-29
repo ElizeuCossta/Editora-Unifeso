@@ -1,1 +1,159 @@
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Página de Agendamento</title>
+    <link rel="stylesheet" href="style_agendamento.css" />
+  </head>
+  <body>
+    <div class="navbar">
+      <div class="logo">NAF-Agenda Facil</div>
+      <a href="tela.html" class="main-btn">Inicio</a>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <header>
+      <h1>Agendamento de Consultas para Imposto de Renda</h1>
+      <div class="instruction">
+        <img src="tela 1.jpg" alt="Instrução" />
+        <p>
+          Escolha um contador<br> e agende sua consulta<br> para esclarecer suas dúvidas<br>
+          sobre o imposto de renda.<br>
+        </p>
+      </div>
+    </header>
+    <div class="container">
+      <h2 style="text-align: center">Consultas Disponíveis</h2>
+      <p style="padding: 10px">
+        Escolha um contador e agende sua consulta .
+      </p>
+      <div class="counters">
+        <div class="counter" id="counter1">
+          <h3>Contador 1</h3>
+          <p>Nome: Rodrigo Sampio</p>
+          <br>
+          <label for="meeting-time">Escolha um horário para seu agendamento:</label>
+          <input
+          type="datetime-local"
+          id="meeting-time">
+          <button
+            class="select-btn"
+            onclick="selectCounter('counter1', 'Rodrigo Sampio')"
+          >
+            Selecionar
+          </button>
+        </div>
+        <div class="counter" id="counter2">
+          <h3>Contador 2</h3>
+          <p>Nome: Maria Oliveira</p>
+          <br>
+          <label for="meeting-time">Escolha um horário para seu agendamento:</label>
+          <input
+          type="datetime-local"
+          id="meeting-time">
+          <button
+            class="select-btn"
+            onclick="selectCounter('counter2', 'Maria Oliveira')"
+          >
+            Selecionar
+          </button>
+        </div>
+        <div class="counter" id="counter3">
+          <h3>Contador 3</h3>
+          <p>Nome: Carlos Pereira</p>
+          <br>
+          <label for="meeting-time">Escolha um horário para seu agendamento:</label>
+          <input
+          type="datetime-local"
+          id="meeting-time">
+          <button
+            class="select-btn"
+            onclick="selectCounter('counter3', 'Carlos Pereira')"
+          >
+            Selecionar
+          </button>
+        </div>
+        <div class="counter" id="counter4">
+          <h3>Contador 4</h3>
+          <p>Nome: Ana Costa</p>
+          <br>
+          <label for="meeting-time">Escolha um horário para seu agendamento:</label>
+          <input
+          type="datetime-local"
+          id="meeting-time">
+          <button
+            class="select-btn"
+            onclick="selectCounter('counter4', 'Ana Costa')"
+          >
+            Selecionar
+          </button>
+        </div>
+      </div>
 
+      <h2 class="centro">Consultas Marcadas</h2>
+      <div id="scheduled-consultations" class="scheduled-consultations"></div>
+    </div>
+
+    <div id="overlay" class="overlay" style="display: none">
+      <div class="confirmation-message">
+        <p>
+          Você selecionou o contador <span id="selected-counter-name"></span>. A confirmação será enviada por e-mail e WhatsApp. Deseja confirmar o agendamento? 
+        </p>
+        <button id="confirm-btn">Confirmar</button>
+        <button id="cancel-btn">Cancelar</button>
+            <div id="overlay" class="overlay" style="display: none">
+      <div class="confirmation-message">
+      </div>
+    </div>
+
+    <script>
+      let selectedCounterId = null;
+      let selectedCounterName = "";
+
+      function selectCounter(counterId, counterName) {
+        selectedCounterId = counterId;
+        selectedCounterName = counterName;
+        document.getElementById("selected-counter-name").innerText =
+          counterName;
+        document.getElementById("overlay").style.display = "flex";
+      }
+
+      document
+        .getElementById("confirm-btn")
+        .addEventListener("click", function () {
+          // Adiciona a consulta marcada
+          const consultationDiv = document.createElement("div");
+          consultationDiv.classList.add("marked-consultation");
+          consultationDiv.innerHTML = `
+                <h3>${selectedCounterName}</h3>
+                <p>Consulta marcada com sucesso!</p>
+                <button class="delete-btn" onclick="deleteConsultation(this)">Excluir</button>
+            `;
+          document
+            .getElementById("scheduled-consultations")
+            .appendChild(consultationDiv);
+
+          // Remove o contador da lista
+          const counterElement = document.getElementById(selectedCounterId);
+          counterElement.parentNode.removeChild(counterElement);
+
+          // Fecha a sobreposição
+          document.getElementById("overlay").style.display = "none";
+        });
+
+      document
+        .getElementById("cancel-btn")
+        .addEventListener("click", function () {
+          document.getElementById("overlay").style.display = "none";
+        });
+
+      function deleteConsultation(button) {
+        const consultationDiv = button.parentNode;
+        consultationDiv.parentNode.removeChild(consultationDiv);
+        alert("Consulta excluída com sucesso!");
+      }
+    </script>
+  </body>
+</html>
