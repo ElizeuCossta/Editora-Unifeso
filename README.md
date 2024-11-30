@@ -41,8 +41,9 @@
 
 ## Benefício do Produto
 
- - Resolver desafio específico que os consumidores enfrentam , seja no contexto pessoal ou profissional.
- - Consultar o calendário ou agenda para ver os compromissos agendados.
+ - Redução do tempo de espera, praticidade e facilidade para todo tipo de usuário na hora do agendamento, cancelamento e reagendamento.
+ - Facilidade para os administradores na hora do atendimento, modificações e inclusões dos dados no sistema.
+ - Ficará um campo disponível para sugestões e reclamações para assim melhorarmos nossos serviços.
 
 ## Desenvolvido com as Seguintes Tecnologias
    
