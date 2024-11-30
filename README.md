@@ -47,9 +47,9 @@
 
 ## Desenvolvido com as Seguintes Tecnologias
    
-- **HTML**: Estruturação do conteúdo do site.
-- **CSS**: Estilização da interface do usuário.
-- **JavaScript**:
+- **HTML**: Estruturar a tela inicial.
+- **CSS**: Utilizado para estilizar o aplicativo.
+- **JavaScript**: implementar funcionalidades interativas no aplicativo
 
   ## Tipo de MVP - Protótipo
 
