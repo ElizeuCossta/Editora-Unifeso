@@ -52,7 +52,7 @@
 - **JavaScript**: Implementar funcionalidades interativas no aplicativo.
 
   ## Tipo de MVP - Protótipo
-  - Mágico de Oz  
+- Mágico de Oz  
 
 ## Instruções para Executar ou Abrir o MVP
 
