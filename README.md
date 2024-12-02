@@ -66,7 +66,6 @@
  
  - file://C:/Users/lindo/OneDrive/Documentos/trabalho%20html/trabalho%20novo/tela.html
         
-**4**. Abra o arquivo index.html no seu navegador para visualizar o aplicativo.
 
 ## Informações Adicionais
 - Se você for o administrador da Agenda Fácil, poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os agendamentos deles no sistema.
