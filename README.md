@@ -63,6 +63,8 @@
   - https://github.com/ElizeuCossta/Projeto-Agenda/tree/main
      
  **3**. Navegue até o diretório do projeto:
+ 
+ - file:///C:/Users/lindo/OneDrive/Documentos/trabalho%20html/trabalho%20novo/tela.html
         
 **4**. Abra o arquivo index.html no seu navegador para visualizar o aplicativo.
 
