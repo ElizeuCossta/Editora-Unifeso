@@ -63,11 +63,12 @@
   - https://github.com/ElizeuCossta/Projeto-Agenda/tree/main
      
  **3**. Navegue até o diretório do projeto:
- ```bash 
- - file://C:/Users/lindo/OneDrive/Documentos/trabalho%20html/trabalho%20novo/tela.html
-        
 
-## Informações Adicionais
+ ``bash
+ - file://C:/Users/lindo/OneDrive/Documentos/trabalho%20html/trabalho%20novo/tela.html
+
+        
+ ## Informações Adicionais
 - Se você for o administrador da Agenda Fácil, poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os agendamentos deles no sistema.
 - Casa haja qualquer problema ou dúvida no cadastro da Agenda Fácil, entre em contato com o nosso suporte técnico.
 - Alterar ou Cancelar: Se for permitido, você pode alterar ou cancelar um compromisso diretamente da interface.
