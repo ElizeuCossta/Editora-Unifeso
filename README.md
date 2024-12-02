@@ -49,7 +49,7 @@
    
 - **HTML**: Estruturar a tela inicial do aplicativo.
 - **CSS**: Utilizado para estilizar o aplicativo.
-- **JavaScript**: Implementar funcionalidades interativas no aplicativo
+- **JavaScript**: Implementar funcionalidades interativas no aplicativo.
 
   ## Tipo de MVP - Protótipo
 
@@ -67,10 +67,10 @@
 
 ## Informações Adicionais
 - Se você for o administrador da Agenda Fácil, poderá ver todos os compromissos agendados, enquanto os usuários podem ver apenas os agendamentos deles no sistema.
-- Casa haja qualquer problema ou dúvida no cadastro da Agenda Fácil, entre em contato com o nosso suporte técnico
+- Casa haja qualquer problema ou dúvida no cadastro da Agenda Fácil, entre em contato com o nosso suporte técnico.
 - Alterar ou Cancelar: Se for permitido, você pode alterar ou cancelar um compromisso diretamente da interface.
 
 ## Notificações e Lembretes
 
-- Os usuários podem receber um lembrete via e-mail antes de cada compromisso agendado
+- Os usuários podem receber um lembrete via e-mail ou whatsApp antes de cada compromisso agendado.
 - Caso haja uma alteração ou cancelamento de um compromisso, o usuário recebe uma notificação.
