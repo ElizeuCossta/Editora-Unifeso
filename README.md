@@ -63,9 +63,8 @@
   - https://github.com/ElizeuCossta/Projeto-Agenda/tree/main
      
  **3**. Navegue até o diretório do projeto:
-
  ``bash
- - file://C:/Users/lindo/OneDrive/Documentos/trabalho%20html/trabalho%20novo/tela.html
+  - file://C:/Users/lindo/OneDrive/Documentos/trabalho%20html/trabalho%20novo/tela.html
 
         
  ## Informações Adicionais
